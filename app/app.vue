@@ -50,7 +50,7 @@ useHead({
     <div
       id="snipcart"
       hidden
-      data-api-key="PEGAR_AQUI_TU_PUBLIC_API_KEY"
+      data-api-key="YWIxZjFhNTMtNjYxMS00YzJiLTg0NmEtYmRlM2I2NTE5YTA1NjM5Mjk4Mjk4MTI3Mjk4MTI0"
       data-config-modal-style="side"
     ></div>
   </div>
