@@ -1,0 +1,13 @@
+{
+  "slug": "sintetizador-korg-microkorg",
+  "name": "Sintetizador Korg microKORG",
+  "description": "Sintetizador analógico modelado con vocoder y teclado de minitecla. Muy popular en electrónica y pop.",
+  "category": "teclados-y-pianos",
+  "image": "/images/products/sintetizador-korg-microkorg.svg",
+  "brand": "Korg",
+  "price": 429,
+  "color": "Plateado",
+  "material": "Metal y plástico",
+  "level": "Profesional",
+  "featured": false
+}

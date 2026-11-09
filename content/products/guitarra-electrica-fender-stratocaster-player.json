@@ -1,0 +1,13 @@
+{
+  "slug": "guitarra-electrica-fender-stratocaster-player",
+  "name": "Guitarra eléctrica Fender Stratocaster Player",
+  "description": "La clásica Stratocaster con tres micrófonos single-coil. Brillante y versátil, sirve para blues, rock y pop.",
+  "category": "guitarras-y-bajos",
+  "image": "/images/products/guitarra-electrica-fender-stratocaster-player.svg",
+  "brand": "Fender",
+  "price": 849,
+  "color": "Sunburst",
+  "material": "Aliso",
+  "level": "Intermedio",
+  "featured": true
+}

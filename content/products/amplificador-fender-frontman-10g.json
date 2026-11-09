@@ -1,0 +1,13 @@
+{
+  "slug": "amplificador-fender-frontman-10g",
+  "name": "Amplificador Fender Frontman 10G",
+  "description": "Amplificador de 10 vatios para guitarra, con canal limpio y distorsión. Ideal para practicar.",
+  "category": "accesorios-y-audio",
+  "image": "/images/products/amplificador-fender-frontman-10g.svg",
+  "brand": "Fender",
+  "price": 99,
+  "color": "Negro",
+  "material": "Metal y madera",
+  "level": "Principiante",
+  "featured": false
+}

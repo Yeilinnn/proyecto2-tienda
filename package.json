@@ -1,0 +1,16 @@
+{
+  "name": "proyecto2-musica",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@nuxt/content": "latest",
+    "better-sqlite3": "latest",
+    "nuxt": "4.5.2"
+  }
+}

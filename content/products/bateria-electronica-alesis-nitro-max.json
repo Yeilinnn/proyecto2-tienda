@@ -1,0 +1,13 @@
+{
+  "slug": "bateria-electronica-alesis-nitro-max",
+  "name": "Batería electrónica Alesis Nitro Max",
+  "description": "Batería electrónica con parches de malla silenciosos. Perfecta para practicar sin molestar.",
+  "category": "percusion",
+  "image": "/images/products/bateria-electronica-alesis-nitro-max.svg",
+  "brand": "Alesis",
+  "price": 449,
+  "color": "Negro",
+  "material": "Malla y plástico",
+  "level": "Principiante",
+  "featured": false
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "microfono-dinamico-shure-sm58",
+  "name": "Micrófono dinámico Shure SM58",
+  "description": "Micrófono de voz estándar en escenarios de todo el mundo. Resistente y con buen rechazo del ruido.",
+  "category": "accesorios-y-audio",
+  "image": "/images/products/microfono-dinamico-shure-sm58.svg",
+  "brand": "Shure",
+  "price": 99,
+  "color": "Plateado",
+  "material": "Metal",
+  "level": "Profesional",
+  "featured": true
+}

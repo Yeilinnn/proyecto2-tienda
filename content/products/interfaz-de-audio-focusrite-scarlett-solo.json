@@ -1,0 +1,13 @@
+{
+  "slug": "interfaz-de-audio-focusrite-scarlett-solo",
+  "name": "Interfaz de audio Focusrite Scarlett Solo",
+  "description": "Interfaz USB con una entrada de micrófono y una de instrumento. Calidad de estudio para grabar en casa.",
+  "category": "accesorios-y-audio",
+  "image": "/images/products/interfaz-de-audio-focusrite-scarlett-solo.svg",
+  "brand": "Focusrite",
+  "price": 129,
+  "color": "Rojo",
+  "material": "Metal",
+  "level": "Intermedio",
+  "featured": false
+}
